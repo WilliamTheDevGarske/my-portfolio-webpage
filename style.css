@@ -18,7 +18,7 @@ img{
 
 body{
   background-repeat: no-repeat;
-  background-image:url("images/cool-wood-background.jpg");
+  background-image: url(images/cool-wood-background.jpg);
   background-size: cover; 
 }
 
@@ -28,7 +28,7 @@ body{
 header {
   text-align: center;
   height: 200px;
-  background-image: url("images/Not-Your-Regular-Leaves.jpg");
+  background-image: url(images/Not-Your-Regular-Leaves.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   border-bottom: 2px solid #A3B4A2;
@@ -72,7 +72,7 @@ section{
 
 footer{
   height:100px;
-  background-image: url("/images/Not-Your-Regular-Leaves.jpg") ;
+  background-image: url(images/Not-Your-Regular-Leaves.jpg) ;
   border-top: 2px solid #A3B4A2;
 }
 
@@ -118,7 +118,7 @@ hr {
 	height: 15px;
   margin-top: 50px;
   padding: 0px 0 0px 0;
-  background-image: url("images/moustache-hr.png");
+  background-image: url(images/moustache-hr.png);
   background-repeat: no-repeat;
   border: none;
 }
