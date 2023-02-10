@@ -60,10 +60,7 @@ section{
   background-image:url(images/paper-section.jpg);
   border-radius: 10px;
   border:2px solid #3E282F;
-  margin-left:100px;
-  margin-right:100px;
-  margin-top: 15px;
-  margin-bottom:15px;
+  margin: 20px 15px 20px 15px;
   width: auto;
   padding: 20px;
   }
